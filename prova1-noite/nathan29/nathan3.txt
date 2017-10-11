@@ -1,0 +1,9 @@
+instrucoes.txt
+log
+nathan1.txt
+nathan2.txt
+nathan3.txt
+pasta1
+pasta2
+pasta3
+prova1-2017.txt
